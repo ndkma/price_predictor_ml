@@ -1,6 +1,13 @@
 # price_predictor_ml
-A price predictor using a machine learning algorithm and a dataset to predict used car price.
+The "Price Predictor ML" project is a Machine Learning endeavor aimed 
+at creating an accurate model to estimate the prices of used cars. By 
+employing regression models, the project showcases the practical 
+application of machine learning in predictive tasks. 
 
-This is a Machine Learning project including a dataset and ipynb file. Running the ipynb file
-trains and runs the model, and a tkinter gui is run at the end, just for fun. Observations can
-be found in the pdf file.
+The project includes a dataset and an IPython notebook file, which can
+be executed to train and run the model. At the end of the process, a Tkinter 
+Graphical User Interface (GUI) is displayed for interactive exploration. 
+The project's objective is to develop a robust predictive model that utilizes 
+selected features to provide reliable estimates for car prices. Detailed 
+observations and findings can be found in the accompanying PDF file, providing 
+insights into the model's performance and its potential real-world applications.
